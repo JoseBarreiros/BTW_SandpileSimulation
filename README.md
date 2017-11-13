@@ -11,8 +11,8 @@ Tags: Self emerging patterns, Power Law.
 
 Files:
 
-sandpile_jb:    Plot an png image of the sandpile in each time step.
-sandpile_jb_v2: Export a csv file containing data of the number of grains dropped in each avalanche to further build an histogram. 
+sandpile_jb.py:    Plot an png image of the sandpile in each time step.
+sandpile_jb_v2.py: Export a csv file containing data of the number of grains dropped in each avalanche to further build an histogram. 
 
 Results:
 ![alt text](https://github.com/JoseBarreiros/BTW_SandpileSimulation/blob/master/Media/avalanches.png)
