@@ -11,7 +11,8 @@ Tags: Self emerging patterns, Power Law.
 
 Files:
 
-sandpile_jb.py:    Plot an png image of the sandpile in each time step.
+sandpile_jb.py:    Plot an png image of the sandpile in each time step as in BTW,1987.
+sandpile_jb_pattern.py:    Plot an png image of the sandpile in each time step to evidence the pattern formation.  One grain is dropped every step in the center of the plane.
 sandpile_jb_v2.py: Export a csv file containing data of the number of grains dropped in each avalanche to further build an histogram. 
 
 Results:
